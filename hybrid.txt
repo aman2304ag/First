@@ -1,0 +1,23 @@
+OPENSTACK INSTALLATION
+https://www.linkedin.com/posts/ayush-gupta-31182a196_openstack-activity-6682397211789180928-LY6_
+TASK-1
+MAIN
+https://www.linkedin.com/posts/ayush-gupta-31182a196_how-to-deploy-webpage-on-aws-cloud-using-activity-6673865949097136128-1BOb
+AWS
+TERRAFORM
+TASK-2
+MAIN
+https://www.linkedin.com/posts/ayush-gupta-31182a196_task-2-hybrid-multi-cloud-activity-6695292618441543680-JTye
+
+AWS
+https://www.linkedin.com/feed/update/urn:li:activity:6695293369842704384
+
+TERRAFORM
+https://www.linkedin.com/feed/update/urn:li:activity:6695293534423015424
+
+TASK-3
+MAIN
+https://www.linkedin.com/posts/ayush-gupta-31182a196_vpc-with-private-and-public-subnet-activity-6687730226731995136-dXdc
+TASK-4
+MAIN
+https://www.linkedin.com/posts/ayush-gupta-31182a196_vpc-with-nat-gateway-and-bastion-host-activity-6687976115874615296-P9Ao
